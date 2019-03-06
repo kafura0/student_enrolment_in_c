@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551851139 source:c:\users\joan_njoroge\desktop\git\student_enrolment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
